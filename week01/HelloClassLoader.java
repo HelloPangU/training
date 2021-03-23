@@ -3,18 +3,16 @@ package com.jvm;
 import lombok.SneakyThrows;
 import java.io.ByteArrayOutputStream;
 import java.io.FileInputStream;
-import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.net.URLClassLoader;
-
 
 public class HelloClassLoader extends  ClassLoader{
 
-    public static void main(String[] args) throws IllegalAccessException, InstantiationException {
-        new HelloClassLoader().findClass("Hello").newInstance();
+    public static void main(String[] args) throws IllegalAccessException, InstantiationException, NoSuchMethodException, InvocationTargetException {
+        Object hello = new HelloClassLoader().findClass("Hello").newInstance();
+        Class<?> aClass=hello.getClass();
+        Method hello1=aClass.getDeclaredMethod("hello");
+        hello1.invoke(hello);
     }
 
     @SneakyThrows
