@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d7b32bb-e93a-41fa-9722-2ceb22933f99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/client/OkHttpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/service/HttpServer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/service/HttpServer02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../D/mysoft/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\D\mysoft\maven\m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qyEvNjB9tgA0xASgySEmlCOjpd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/io/github/kimmking/gateway/service" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.kimmking.gateway.client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\source\code\JavaCourseCodes\02nio\nio02\src\main\java\io\github\kimmking\gateway\service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OkHttpTest">
+    <configuration name="HttpServer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.kimmking.gateway.service.HttpServer01" />
+      <module name="netty-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.kimmking.gateway.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpServer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.kimmking.gateway.service.HttpServer02" />
+      <module name="netty-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.kimmking.gateway.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.kimmking.gateway.NettyServerApplication" />
+      <module name="netty-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.kimmking.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OkHttpTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.kimmking.gateway.client.OkHttpTest" />
+      <module name="netty-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.kimmking.gateway.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OkHttpTest" />
+        <item itemvalue="Application.HttpServer02" />
+        <item itemvalue="Application.NettyServerApplication" />
+        <item itemvalue="Application.HttpServer01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d7b32bb-e93a-41fa-9722-2ceb22933f99" name="Default Changelist" comment="" />
+      <created>1618043658855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618043658855</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2005" height="329" key="GridCell.Tab.0.bottom" timestamp="1618050983072">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="329" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1618050983072" />
+    <state width="2005" height="329" key="GridCell.Tab.0.center" timestamp="1618050983072">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="329" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1618050983072" />
+    <state width="2005" height="329" key="GridCell.Tab.0.left" timestamp="1618050983072">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="329" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1618050983072" />
+    <state width="2005" height="329" key="GridCell.Tab.0.right" timestamp="1618050983072">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="329" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1618050983072" />
+    <state x="2643" y="264" width="602" height="584" key="find.popup" timestamp="1618048620013">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2643" y="264" width="602" height="584" key="find.popup/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1618048620013" />
+  </component>
+</project>
