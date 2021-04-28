@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- 1.使用构造注入方式装配User实例 -->
+    <bean id="user1" class="com.home.work05.erti.User">
+        <constructor-arg index="0" value="tom"></constructor-arg>
+        <constructor-arg index="1" value="123456"></constructor-arg>
+        <constructor-arg index="2">
+            <list>
+                <value>"addr1"</value>
+                <value>"addr1"</value>
+            </list>
+        </constructor-arg>
+    </bean>
+    <bean id="user2" class="com.home.work05.erti.User">
+        <property name="name" value="user2"></property>
+        <property name="id" value="2"></property>
+        <property name="addr">
+            <list>
+                <value>"addr2"</value>
+                <value>"addr2"</value>
+            </list>
+        </property>
+    </bean>
+</beans>
